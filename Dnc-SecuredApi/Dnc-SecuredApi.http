@@ -1,0 +1,6 @@
+@Dnc_SecuredApi_HostAddress = http://localhost:5161
+
+GET {{Dnc_SecuredApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
